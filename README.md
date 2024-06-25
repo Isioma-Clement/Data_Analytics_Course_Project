@@ -1,4 +1,4 @@
-# Data_Analytics_Course_Project
+# Exploratory Data Analysis: Wikipedia
 This repository contains a dataset with 1500 rows x 367 columns of several Wikipedia webpages visited in the year 2016, and Python code written to:
 
 a. unpivot or flatten dataset for ease 
